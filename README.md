@@ -52,8 +52,8 @@ Crop yield estimation is essential for agricultural planning, food security, sup
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-   cd YOUR_REPOSITORY_NAME
+   git clone https://github.com/Tirtha2005/Crop_Yield_Prediction.git
+   cd Crop_Yield_Prediction
    ```
 
 2. **Install required dependencies:**
